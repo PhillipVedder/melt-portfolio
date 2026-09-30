@@ -20,4 +20,4 @@ Do not publish this local data service with a shared provider key. A hosted vers
 
 ## Reporting a vulnerability
 
-Do not include keys or private portfolio data in an issue. Use the repository host's private vulnerability reporting where enabled. Otherwise contact the maintainer privately before disclosing a reproducible security issue. Never claim a vulnerability is fixed until the relevant regression checks pass.
+Do not include keys or private portfolio data in an issue. Use [GitHub's private vulnerability reporting](https://github.com/PhillipVedder/melt-portfolio/security/advisories/new), which is enabled for this repository. Never claim a vulnerability is fixed until the relevant regression checks pass.

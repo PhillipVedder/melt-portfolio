@@ -2,6 +2,8 @@
 
 Verified locally on September 30, 2026. This is evidence of tested behavior, not a guarantee that the application has no bugs.
 
+The [first public GitHub Actions run](https://github.com/PhillipVedder/melt-portfolio/actions/runs/36673782964) also passed on September 30, 2026, using a clean Ubuntu runner and Node.js 22. It verified installation from the lockfile, typecheck, production build, 45 unit/provider tests, formatting, and 14 deterministic Chromium tests. The live-provider test was intentionally skipped; no Finnhub secret was supplied to CI.
+
 ## Automated Checks
 
 | Check                                                     | Result                                                                |
@@ -47,5 +49,4 @@ A separate sub-agent used the authentic, commit-pinned Ponytail review skill plu
 - Axe checks do not certify full WCAG compliance. Manual screen-reader testing remains outstanding.
 - Long-running upstream outages, exchange event timing, rare message sequences, and all possible corporate actions are not exhaustively tested.
 - Corporate actions, multi-currency portfolios, fees, taxes, real executions, and multi-tab transactional consistency are outside this release's scope.
-- GitHub Actions is configured but has not run on GitHub until this repository is published.
 - The upstream Zod package emits harmless pure-annotation warnings during the production build; compilation completes successfully.
