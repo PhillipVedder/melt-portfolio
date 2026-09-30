@@ -6,7 +6,7 @@ Melt is maintained in its own public repository: [PhillipVedder/melt-portfolio](
 
 Repository name: `melt-portfolio`
 
-Description: `A tactile portfolio sandbox: real stock quotes, proportional slime, precise virtual transfers, and a tested decimal accounting engine.`
+Description: `Melt (Market Exposure & Learning Tool): a visual portfolio sandbox with real stock quotes, proportional slime, and precise virtual transfers.`
 
 Topics: `react`, `typescript`, `fintech`, `portfolio-visualization`, `canvas`, `finnhub`, `playwright`, `data-visualization`.
 

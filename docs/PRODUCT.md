@@ -1,5 +1,7 @@
 # Product brief
 
+**Melt** stands for **Market Exposure & Learning Tool**. The short name remains the visible product brand; the expansion explains its educational purpose without implying liquidity analysis or real-money execution.
+
 Melt is a clean-room implementation of a user's idea: make portfolio allocation tangible by representing positions as slime, then move mass between them to reallocate virtual dollars.
 
 ## Audience and principles

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "A tactile, real-market portfolio sandbox. Move capital, see the balance change.",
+  "description": "Market Exposure & Learning Tool: a real-market, virtual-money portfolio sandbox.",
   "license": "MIT",
   "author": "Phillip Vedder",
   "repository": {

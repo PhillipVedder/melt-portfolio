@@ -2,6 +2,8 @@
 
 # Melt
 
+**Market Exposure & Learning Tool**
+
 ### Make portfolio allocation tangible.
 
 A real-market, virtual-money workspace where holdings become living slime.
@@ -22,6 +24,8 @@ Move capital between assets. See the balance change. Keep the math exact.
 **Paper portfolio. Real quotes. No brokerage connection.**
 
 ## Why This Exists
+
+MELT stands for **Market Exposure & Learning Tool**: a visual sandbox for understanding portfolio allocation. The name connects the fluid interface to its purpose: explore market exposure and learn through virtual-money experiments.
 
 A portfolio spreadsheet tells you how much you own. It is less good at helping you feel what an allocation decision changes.
 
